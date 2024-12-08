@@ -11,3 +11,5 @@ Guides and tips for development
 [git squash](dev/git-squash.md)
 
 [git rebase](dev/git-rebase.md)
+
+[git](dev/git.md)
