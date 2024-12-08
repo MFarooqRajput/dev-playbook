@@ -9,3 +9,5 @@ Guides and tips for development
 [gitignoe](dev/gitignore.md)
 
 [git squash](dev/git-squash.md)
+
+[git rebase](dev/git-rebase.md)
