@@ -17,3 +17,5 @@ Guides and tips for development
 [apache](dev/apache.md)
 
 [virtual host](dev/virtual-host.md)
+
+[php](dev/php.md)
