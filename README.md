@@ -15,3 +15,5 @@ Guides and tips for development
 [git](dev/git.md)
 
 [apache](dev/apache.md)
+
+[virtual host](dev/virtual-host.md)
