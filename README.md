@@ -13,3 +13,5 @@ Guides and tips for development
 [git rebase](dev/git-rebase.md)
 
 [git](dev/git.md)
+
+[apache](dev/apache.md)
