@@ -19,3 +19,5 @@ Guides and tips for development
 [virtual host](dev/virtual-host.md)
 
 [php](dev/php.md)
+
+[MySQL](dev/mysql.md)
