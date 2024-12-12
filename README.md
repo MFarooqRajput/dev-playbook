@@ -27,3 +27,5 @@ Guides and tips for development
 [java](dev/java.md)
 
 [Node](dev/node.md)
+
+[python](dev/python.md)
