@@ -23,3 +23,5 @@ Guides and tips for development
 [MySQL](dev/mysql.md)
 
 [phpMyAdmin](dev/phpmyadmin.md)
+
+[java](dev/java.md)
